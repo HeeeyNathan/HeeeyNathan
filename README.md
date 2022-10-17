@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HeeeyNathan
+- 👋 Hi, I’m Nathan or, as the internet knows me, @HeeeyNathan
 - 👀 I’m interested in integrating taxonomic, functional, and [phylo]genetic diversity through statistical and ecological explorations.
-- 🌱 I’m currently learning how to cope the overwhelming pressure of academia. Spoiler alert, its harder than it looks.
-- 💞️ I’m looking to collaborate on statistical and ecological explorations of taxonomic, functional, and [phylo]genetic diversity. Also in sharing data, skills, and possibly a beer (or three).
+- 🌱 I’m currently learning how to cope with the overwhelming pressure of academia. Spoiler alert, its harder than it looks.
+- 💞️ I’m looking to collaborate on statistical and ecological explorations of taxonomic, functional, and [phylo]genetic diversity. Also looking to share data, skills, and possibly a beer (or three).
 - 📫 How to reach me Nathan93Baker@gmail | https://nathan93baker.wixsite.com/nathan-jay-baker
 
 <!---
